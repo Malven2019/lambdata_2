@@ -17,7 +17,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/malven2019/lambdata_2",
     packages=setuptools.find_packages(),
-    python_requires=">=3.7",
+    python_requires=">=3.6.9",
     install_requires=REQUIRED,
     classifiers=[
         "Programming Language :: Python :: 3",
