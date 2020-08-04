@@ -10,7 +10,7 @@ with open("README.md", "r") as file:
     LONG_DESCRIPTION = file.read()
 setuptools.setup(
     name="lambdata-malven2019",
-    version="1.0",
+    version="2.0",
     author="Malven Motmbeni",
     description="A collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
