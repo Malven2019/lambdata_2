@@ -1,4 +1,2 @@
 # Nothing to see yet
-x = 2
-
-print('Hello, Software Engineers')
+from lambdata_malven2019.dataframe_helper import getDuplicateColumns
